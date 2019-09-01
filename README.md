@@ -21,36 +21,65 @@
 - ...
 -----------------------
 
-Requierements :
+>Requierements :
+
 PHP 5.6+, MySQL,PHP sessions,fopen(optional)
 
-Is the script is free? There is no limitation?
+
+
+>Is the script is free? There is no limitation?
+
 Yes it's free and there is no limitation from this script. There is only the limitations from the : IDATOKEN API  (https://idatoken.org/api.php)
 
-Where can I add my ADS codes?
+
+
+>Where can I add my ADS codes?
+
 add your banners code into $header_banners,$footer_banners on the settings.php file.
 
-Can I add popups?
+
+
+>Can I add popups?
+
 you can add your script codes into $popunders on the settings.php file.
 
-Can I add shorteners?
+
+
+>Can I add shorteners?
+
 still in settings.php file, add them like this way :
+```
 $shorteners[]=''; //(this mean = no shortener on first claim)
 $shorteners[]='https://shortit.pw/api.php?api=ReplaceThis&url='; // 2nd claim, we set a shortener
 $shorteners[]='';  // we can decide to not add any shortener on 3th claim
 $shorteners[]='https://shortit.pw/api.php?api=ReplaceThis&url=';  // you can replace it with any compatible shortener
+```
 you are supposed to add the equal lines of shorteners than your $ida_maxclaims (max claims per day) you set.
 
-All settings are in the file "settings.php".
 
-There is an admin area (link in the footer of your installed faucet)
+
+>All settings are in the file "settings.php".
+
+
+
+>There is an admin area (link in the footer of your installed faucet)
+
 You could change the theme colors, ban or unban ip, and be aware about new version of this script.
 
-Can I remove the links in footer?
+
+
+>Can I remove the links in footer?
+
 No.
 
-I have an awesome idea to improve this script !! Really amazinnnng ideaaaa !!!!!
+
+
+>I have an awesome idea to improve this script !! Really amazinnnng ideaaaa !!!!!
+
 Really? Tell more about it on our github or in our telegram/discord and we will think about adding it.
 
-I don't know what's happen, something don't work, plzzzz helpppp !!!
+
+
+>I don't know what's happen, something don't work, plzzzz helpppp !!!
+
 There is no support as it's a free script but you can still ask help on github, telegram or discord, we will try to help as the community could help you too.
