@@ -14,9 +14,8 @@
 - Google recaptcha
 - Shortener or direct claim
 - Referral system
-- Max claims per day
-- Delay between 2 claims
-- Payement to direct wallet or delayed in a balance (with ida-api)
+- Limit claims per day & set delay between 2 claims
+- Payment to direct wallet or delayed in a balance (with ida-api)
 - Stats for last 30 days
 - Ban/Unban IP
 - VPN/Proxy Protection (iphub)
