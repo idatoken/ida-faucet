@@ -1,7 +1,7 @@
 # ida-faucet
 **Free Faucet Script** [Faucet Script Demo](https://idatoken.org/faucet/)
 
-[Download Script v0.1](https://github.com/idatoken/ida-faucet/archive/0.1.zip)
+[Download IDA-Faucet Script v0.1](https://github.com/idatoken/ida-faucet/archive/0.1.zip)
 
 1) Upload files to your hosting
 2) Go to your website url, it should redirect to the install.php page
