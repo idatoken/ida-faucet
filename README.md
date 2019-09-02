@@ -17,7 +17,7 @@
 - Limit claims per day & set delay between 2 claims
 - Payment to direct wallet or delayed in a balance (with ida-api)
 - Stats for last 30 days
-- Ban/Unban IP
+- AutoBan system + Manual Ban/Unban IP
 - VPN/Proxy Protection (iphub)
 - ...
 -----------------------
