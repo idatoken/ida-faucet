@@ -1,5 +1,6 @@
 # ida-faucet
-**Free Faucet Script**
+**Free Faucet Script** [Faucet Script Demo](https://idatoken.org/faucet/)
+
 
 1) Upload files to your hosting
 2) Go to your website url, it should redirect to the install.php page
