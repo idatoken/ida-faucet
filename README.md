@@ -1,4 +1,4 @@
-# ida-faucet
+# ida-faucet -- discontinued --
 **Free Faucet Script** [Faucet Script Demo](https://idatoken.org/faucet/)
 
 [Download IDA-Faucet Script v0.2](https://github.com/idatoken/ida-faucet/archive/0.2.zip)
